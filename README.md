@@ -1,1 +1,5 @@
-
+- 👋 Hi, I’m @skfakruddin
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html,css,javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
